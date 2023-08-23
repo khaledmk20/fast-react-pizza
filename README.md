@@ -10,5 +10,4 @@ Welcome to Fast React Pizza, your go-to pizza delivery web app designed to provi
 - **Delivery Tracking:** Stay updated with real-time delivery tracking and estimated arrival times.
 - **User Profiles:** Create an account to save your order history and delivery preferences.
 - **Responsive Design:** Access our app on any device for a seamless experience.
-- 
 - [Check it out](https://fast-react-pizza.netlify.app/)
